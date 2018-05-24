@@ -1,0 +1,3 @@
+import './moduleA'
+console.log('This is subPageB')
+export default 'subPageB'
